@@ -37,3 +37,12 @@ a {
     text-decoration: none;
     font-family:'DungGeunMo';
 }
+@media(max-width:900px){
+    #article{
+        display: inline;
+    }
+    #pages{
+        display: inline;
+        text-align: left;
+    }
+}
